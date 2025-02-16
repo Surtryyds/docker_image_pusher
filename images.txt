@@ -23,7 +23,6 @@ bitwarden/attachments:latest
 bitwarden/sso:latest
 bitwarden/setup:latest
 bitwarden/server:latest
-bitwarden/self-host:latest
 bitwarden/scim:latest
 bitwarden/server:latest
 clash
