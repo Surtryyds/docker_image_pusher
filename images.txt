@@ -1,3 +1,4 @@
+napcat
 python:3.11-slim-bookworm
 nginx
 phpmyadmin:latest
