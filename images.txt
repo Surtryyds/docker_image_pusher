@@ -26,7 +26,6 @@ bitwarden/server:latest
 bitwarden/scim:latest
 bitwarden/server:latest
 python:3.11-bookworm
-clash
 gitlab/gitlab-runner
 gitlab/gitlab-ce
 ubuntu/apache2:latest
