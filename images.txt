@@ -1,4 +1,4 @@
-napcat
+mlikiowa/napcat-docker
 python:3.11-slim-bookworm
 nginx
 phpmyadmin:latest
